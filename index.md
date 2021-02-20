@@ -2,13 +2,11 @@
 
 <img src="profile.png" width="200">
 
-Hello! I'm GK. I live in the SF bay area with my wife & 2 kids. I'm passionate about machine learning (ML), investing & doom scrolling. If you're looking for ML consultants to help bring ML to your product, I would love to hear from you!
+Hello! I'm GK. I live in the SF bay area with my wife & 2 kids. I'm passionate about machine learning (ML), investing & doom scrolling. If you're building a machine learning product, I would love to hear from you!
 
-[Work](#work)
+[gautamkedia@gmail.com](gautamkedia@gmail.com) | [Twitter](https://twitter.com/thegautam) | [LinkedIn](https://www.linkedin.com/in/gautam-kedia-8a275730/)
 
-[ML Consulting](#consulting)
- 
-[Investments](#investments)
+[Work](#work) | [ML Consulting](#consulting) | [Investments](#investments)
 
 ### Work 
 
