@@ -1,11 +1,16 @@
 ## Gautam Kedia
 
-### About Me
 <img src="profile.png" width="200">
 
-Hello! I'm GK. I live in the SF bay area with my wife & 2 kids and work at Stripe. I'm passionate about machine learning (ML), investing & doom scrolling.
+Hello! I'm GK. I live in the SF bay area with my wife & 2 kids. I'm passionate about machine learning (ML), investing & doom scrolling. If you're looking for ML consultants to help bring ML to your product, I would love to hear from you!
 
-### Work
+[Work](#work)
+
+[ML Consulting](#consulting)
+ 
+[Investments](#investments)
+
+### Work 
 
 I'm currently responsible for building ML systems to reduce risk at Stripe
 
@@ -27,5 +32,21 @@ I'm currently responsible for building ML systems to reduce risk at Stripe
 * Prototypes for meeting detection, task detection, and summarization of emails
 
 2010-2014: I led the Location Personalization & Cortana Ranking team at Microsoft.
+
+### Consulting
+
+I'm helping [Oxylabs](oxylabs.io) develop their [ML strategy](https://apnews.com/press-release/accesswire/265ddbed7c8f38c7a612caaaa5fc9fe5)
+
+### Investments
+
+* [Stripe](https://www.stripe.com/)
+* [SpaceX](https://www.spacex.com/)
+* [Boom Supersonic](https://boomsupersonic.com/)
+* [Impossible Foods](https://www.impossiblefoods.com/)
+* [Robinhood](https://robinhood.com/)
+* [Flexport](https://www.flexport.com/)
+* [Nextdoor](https://nextdoor.com/)
+* [Palantir](https://www.palantir.com/) (*Exit*)
+* [Lyft](https://www.lyft.com/) (*Exit*)
 
 
