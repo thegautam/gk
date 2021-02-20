@@ -3,7 +3,29 @@
 ### About Me
 <img src="profile.png" width="200">
 
-Hello! I'm GK. I live in the San Francisco bay area with my wife & 2 kids. I work on Risk Intelligence team at Stripe.
+Hello! I'm GK. I live in the SF bay area with my wife & 2 kids and work at Stripe. I'm passionate about machine learning (ML), investing & doom scrolling.
 
+### Work
+
+I'm currently responsible for building ML systems to reduce risk at Stripe
+
+2019-2020: I pitched and led the Applied ML team at Lyft. Here are some projects that the team delivered:
+* Improved ride destination recommendations with a transformer based model
+* Reduced swipes and increased revenue with a mode recommendations model
+* Improved short-term demand & supply forecasting with Conv-LSTM model
+* Launched a Thompson Sampling based adaptive experimentation system at Lyft
+* Launched an optimized tolls prediction pricing model
+* Coaching program for drivers who drive with their phone in their hands
+* Optimized ad spend for driver acquisition
+* Prototype for RL based routing algorithm
+* Cancel fee forgiveness model
+
+2015-2018: I led the Smart Reply & Office AI prototyping team at Microsoft. Here are some projects that the team delivered:
+* State-of-the-art reccurrent neural net for predicting replies to Skype messages & Outlook emails
+  * ~100M parameter model trained on ~1B emails and serving ~10B emails per day!
+  * Handled correctness and bias in models
+* Prototypes for meeting detection, task detection, and summarization of emails
+
+2010-2014: I led the Location Personalization & Cortana Ranking team at Microsoft.
 
 
