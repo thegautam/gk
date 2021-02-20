@@ -4,7 +4,7 @@
 
 Hello! I'm GK. I live in the SF bay area with my wife & 2 kids. I'm passionate about machine learning (ML), investing & doom scrolling. If you're building a machine learning product, I would love to hear from you!
 
-[gautamkedia@gmail.com](gautamkedia@gmail.com) | [Twitter](https://twitter.com/thegautam) | [LinkedIn](https://www.linkedin.com/in/gautam-kedia-8a275730/)
+<gautamkedia@gmail.com> | [Twitter](https://twitter.com/thegautam) | [LinkedIn](https://www.linkedin.com/in/gautam-kedia-8a275730/)
 
 [Work](#work) | [ML Consulting](#consulting) | [Investments](#investments)
 
