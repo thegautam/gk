@@ -13,21 +13,22 @@ Hello! I'm GK. I live in the SF bay area with my wife & 2 kids. I'm passionate a
 I'm currently responsible for building ML systems to reduce risk at Stripe
 
 2019-2020: I pitched and led the Applied ML team at Lyft. Here are some projects that the team delivered:
-* Improved ride destination recommendations with a transformer based model
-* Reduced swipes and increased revenue with a mode recommendations model
-* Improved short-term demand & supply forecasting with Conv-LSTM model
-* Launched a Thompson Sampling based adaptive experimentation system at Lyft
-* Launched an optimized tolls prediction pricing model
+* Ride destination recommendations with a [transformer based model](https://eng.lyft.com/how-lyft-predicts-your-destination-with-attention-791146b0a439)
+* Revenue-optimizing mode recommendations model
+* Short-term demand & supply forecasting with Conv-LSTM model
+* A Thompson Sampling based adaptive experimentation system at Lyft
+* Optimized tolls prediction pricing model
 * Coaching program for drivers who drive with their phone in their hands
-* Optimized ad spend for driver acquisition
-* Prototype for RL based routing algorithm
+* Optimized ad spend model for driver acquisition
+* Prototype for RL based routing algorithm (KDD Cup 2020 3rd place)
 * Cancel fee forgiveness model
+* Late ride discount coupon model
 
 2015-2018: I led the Smart Reply & Office AI prototyping team at Microsoft. Here are some projects that the team delivered:
 * State-of-the-art reccurrent neural net for predicting replies to Skype messages & Outlook emails
   * ~100M parameter model trained on ~1B emails and serving ~10B emails per day!
   * Handled correctness and bias in models
-* Prototypes for meeting detection, task detection, and summarization of emails
+* Prototypes for meeting detection, [task detection](https://blogs.windows.com/windowsexperience/2017/02/09/cortana-reminds-important-stuff-even-forget-ask/), and summarization of emails
 
 2010-2014: I led the Location Personalization & Cortana Ranking team at Microsoft.
 
