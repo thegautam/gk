@@ -1,4 +1,5 @@
 ## Gautam Kedia
+[Work](#work) &nbsp; [ML Consulting](#consulting) &nbsp; [Investments](#investments)
 
 <img src="profile.png" width="200">
 
@@ -6,11 +7,12 @@ Hello! I'm GK. I live in the SF bay area with my wife & 2 kids. I'm passionate a
 
 [<img src="assets/svg/gmail.svg" width="20">](mailto:gautamkedia@gmail.com) &nbsp;  [<img src="assets/svg/twitter.svg" width="20">](https://twitter.com/thegautam) &nbsp; [<img src="assets/svg/linkedin.svg" width="20">](https://www.linkedin.com/in/gautam-kedia-8a275730/)
 
-[Work](#work) &nbsp; [ML Consulting](#consulting) &nbsp; [Investments](#investments)
 
 ### Work 
 
-Current: I lead one of the Risk Machine Learning teams at Stripe. We are directly responsible for reducing losses and maintaining our reputation with financial partners. We're building state-of-the-art ML and backend systems that scale with Stripe. If you're interested in ML or backend engineering roles, I'd love to hear from you!
+#### 2021-Current: Risk Intelligence, Stripe
+
+I lead one of the Risk Machine Learning teams at Stripe. We are directly responsible for reducing losses and maintaining our reputation with financial partners. We're building state-of-the-art ML and backend systems that scale with Stripe. If you're interested in ML or backend engineering roles, I'd love to hear from you!
 
 #### 2019-2020: Applied ML, Lyft
 I pitched and led the Applied ML team. Here are some projects that the team delivered:
