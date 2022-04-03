@@ -38,24 +38,20 @@ I led the Smart Reply & Office AI prototyping team. Here are some projects that 
 #### 2010-2014: Bing, Microsoft
 I led the Location Personalization & Cortana Ranking team at Microsoft.
 
-#### 2006-2009: Windows, Microsoft
-I woked on Windows Home Server!
-
 
 ### Consulting
 
 I'm helping [Oxylabs](oxylabs.io) develop their [ML strategy](https://apnews.com/press-release/accesswire/265ddbed7c8f38c7a612caaaa5fc9fe5)
 
 ### Investments
-
-* [Stripe](https://www.stripe.com/)
+* [Hex](https://www.hex.tech/)
+* [Unbox](https://www.unbox.ai/)
+* [Gantry](https://gantry.io/)
 * [SpaceX](https://www.spacex.com/)
 * [Boom Supersonic](https://boomsupersonic.com/)
 * [Impossible Foods](https://www.impossiblefoods.com/)
 * [Robinhood](https://robinhood.com/)
-* [Flexport](https://www.flexport.com/)
 * [Nextdoor](https://nextdoor.com/)
-* [Palantir](https://www.palantir.com/) (*Exit*)
-* [Lyft](https://www.lyft.com/) (*Exit*)
+* [Palantir](https://www.palantir.com/)
 
 
