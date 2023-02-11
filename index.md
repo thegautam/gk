@@ -10,11 +10,20 @@ Hello! I'm GK. I live in the SF bay area with my wife & 2 kids. I'm passionate a
 
 ### Work 
 
-#### 2021-Current: Risk Intelligence, Stripe
+#### 2023-Current: Applied ML, Stripe
+In 2023, I started a new Applied ML team at Stripe to bring LLMs & foundational models to Stripe. We are exploring applications in our Documentation, Support, and even payment network products.
 
-I lead one of the Risk Machine Learning teams at Stripe. We are directly responsible for reducing losses and maintaining our reputation with financial partners. We're building state-of-the-art ML and backend systems that scale with Stripe. If you're interested in ML or backend engineering roles, I'd love to hear from you!
+#### 2020-2023: Fraud Intelligence, Stripe
 
-#### 2019-2020: Applied ML, Lyft
+I led the Fraud prevention ML & engineering teams at Stripe. We reduced losses by double digits YoY while improving onboaring experience for Stripe users. We built state-of-the-art ML and backend systems that scaled with Stripe. Here are some of the models & systems the team shipped:
+* Transformer model on sequences of API calls to detect fraud patterns
+* Unsupervised clustering model that finds novel fraud attacks
+* Large scale distributed fraud detection model
+* Anomaly detection system to detect risky behavior
+* Bringing ML infra to industry standards -- auto-training, feature store, and debugging
+* Online streaming system to run ML models and make decisions in realtime
+
+#### 2018-2020: Applied ML, Lyft
 I pitched and led the Applied ML team. Here are some projects that the team delivered:
 * Ride destination recommendations with a [transformer based model](https://eng.lyft.com/how-lyft-predicts-your-destination-with-attention-791146b0a439)
 * Revenue-optimizing mode recommendations model
@@ -44,8 +53,10 @@ I led the Location Personalization & Cortana Ranking team at Microsoft.
 I'm helping [Oxylabs](oxylabs.io) develop their [ML strategy](https://apnews.com/press-release/accesswire/265ddbed7c8f38c7a612caaaa5fc9fe5)
 
 ### Investments
+* [Anomaly](https://www.anomaly.dev/)
+* [Claypot](https://www.claypot.ai/)
 * [Hex](https://www.hex.tech/)
-* [Unbox](https://www.unbox.ai/)
+* [OpenLayer](https://www.openlayer.ai/)
 * [Gantry](https://gantry.io/)
 * [SpaceX](https://www.spacex.com/)
 * [Boom Supersonic](https://boomsupersonic.com/)
